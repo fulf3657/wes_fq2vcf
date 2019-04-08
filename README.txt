@@ -13,3 +13,5 @@ git push -u origin master
 
 the diff between Xcode and Command Line Tools
 https://friendly-101.readthedocs.io/en/latest/commandlinetools.html#what-is-compiling
+
+using ssh protocal to clone a git repo
