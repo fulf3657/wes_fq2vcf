@@ -11,3 +11,5 @@ git remote add origin https://github.com/Xiaohuaniu0032/wes_fq2vcf.git
 git push -u origin master
 
 
+the diff between Xcode and Command Line Tools
+https://friendly-101.readthedocs.io/en/latest/commandlinetools.html#what-is-compiling
